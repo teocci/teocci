@@ -1,4 +1,4 @@
-### What's up everybody, This is Teo ![shy-cat][0]
+### What's up everybody, This is Teo
 ![][1]
 
 <br />
@@ -26,6 +26,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 
 ### 📈 My github stats
 
+![shy-cat][img1]
 [![github-stats][img3]][4]
 
 [![github-stats][img5]][6]
