@@ -33,7 +33,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 
 [![github-stats][img6]][7]
 
-[1]: https://visitor-badge.glitch.me/badge?page_id=teocci.teocci
+[1]: https://visitor-badge.laobi.icu/badge?page_id=teocci.teocci
 [2]: https://github.com/anmol098/teocci/workflows/Waka%20Readme/badge.svg
 [3]: https://www.patreon.com/teocci
 [4]: https://github.com/teocci/github-readme-stats"
