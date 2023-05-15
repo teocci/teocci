@@ -1,5 +1,6 @@
 ### What's up everybody, This is Teo
 ![][1]
+![][8]
 
 <br />
 
@@ -40,6 +41,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 [5]: https://github.com/teocci
 [6]: https://github.com/teocci/JSONViewer-for-Chrome
 [7]: https://github.com/teocci/YouTube-In-Background
+[8]: https://komarev.com/ghpvc/?username=teocci
 
 
 [img1]: https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
