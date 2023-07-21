@@ -37,7 +37,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 [1]: https://visitor-badge.laobi.icu/badge?page_id=teocci.teocci
 [2]: https://github.com/anmol098/teocci/workflows/Waka%20Readme/badge.svg
 [3]: https://www.patreon.com/teocci
-[4]: https://github.com/teocci/github-readme-stats"
+[4]: https://github.com/teocci?tab=repositories
 [5]: https://github.com/teocci
 [6]: https://github.com/teocci/JSONViewer-for-Chrome
 [7]: https://github.com/teocci/YouTube-In-Background
