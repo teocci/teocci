@@ -4,9 +4,9 @@
 
 <br />
 
-I am a passionate self-taught full stack web developer and a freelance software engineer. My passion for software focus on creating ideas and making them come true. I take great care in architecture and code quality of the things I build, based on my experience.
+I am a dedicated researcher at RTT in Korea, having earned my M.S. degree in Computer Science and Engineering from Chungnam National University (CNU) in 2016.2. As a passionate individual, I thrive as a Full-Stack developer, Go programmer, and AI Researcher. My software journey is fueled by a deep commitment to transforming ideas into reality, with a keen focus on ensuring impeccable architecture and code quality, drawing on my wealth of experience.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+In addition to my professional endeavors, I actively contribute to the open-source community, where I serve as both an enthusiast and maintainer. The open-source world has been a rich source of learning for me, and I truly value the spirit of collaboration and knowledge-sharing that thrives in this vibrant community. Through open-source, I continue to grow as a developer and researcher, driven by the desire to make a positive impact in the ever-evolving landscape of technology.
 
 - 💬 Ask me about anything, I am happy to help;
 
