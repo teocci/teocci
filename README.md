@@ -24,7 +24,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 
 [![patreon][img2]][3]
 
-[![buymeacoffee][img6]][9]
+[![buymeacoffee][img7]][9]
 
 ### 📈 My github stats
 
