@@ -24,6 +24,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 
 [![patreon][img2]][3]
 
+[![buymeacoffee][img6]][9]
 
 ### 📈 My github stats
 
@@ -42,6 +43,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 [6]: https://github.com/teocci/JSONViewer-for-Chrome
 [7]: https://github.com/teocci/YouTube-In-Background
 [8]: https://komarev.com/ghpvc/?username=teocci
+[9]: https://www.buymeacoffee.com/teocci
 
 
 [img1]: https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
@@ -50,3 +52,4 @@ If you like what I do, maybe consider buying me a coffee/tea.
 [img4]: https://github-readme-stats.vercel.app/api/top-langs/?username=teocci&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21&langs_count=3 
 [img5]: https://github-readme-stats.vercel.app/api/pin/?username=teocci&repo=JSONViewer-for-Chrome&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
 [img6]: https://github-readme-stats.vercel.app/api/pin/?username=teocci&repo=YouTube-In-Background&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
+[img6]: https://img.buymeacoffee.com/button-api/?text=Buy%20Teocci%20a%20coffee&emoji=&slug=teocci&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff
