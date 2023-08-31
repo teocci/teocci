@@ -4,7 +4,7 @@
 
 <br />
 
-I am a dedicated researcher at RTT in Korea, having earned my M.S. degree in Computer Science and Engineering from Chungnam National University (CNU) in 2016.2. As a passionate individual, I thrive as a Full-Stack developer, Go programmer, and AI Researcher. My software journey is fueled by a deep commitment to transforming ideas into reality, with a keen focus on ensuring impeccable architecture and code quality, drawing on my wealth of experience.
+I am a dedicated researcher at RTT in Korea, having earned my M.S. degree in Computer Science and Engineering from Chungnam National University (CNU) in 2016.2. PhD candidate on the AI field. As a passionate individual, I thrive as a Full-Stack developer, Go programmer, and AI Researcher. My software journey is fueled by a deep commitment to transforming ideas into reality, with a keen focus on ensuring impeccable architecture and code quality, drawing on my wealth of experience.
 
 In addition to my professional endeavors, I actively contribute to the open-source community, where I serve as both an enthusiast and maintainer. The open-source world has been a rich source of learning for me, and I truly value the spirit of collaboration and knowledge-sharing that thrives in this vibrant community. Through open-source, I continue to grow as a developer and researcher, driven by the desire to make a positive impact in the ever-evolving landscape of technology.
 
