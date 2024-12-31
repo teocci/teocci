@@ -23,6 +23,8 @@ In addition to my professional endeavors, I actively contribute to the open-sour
 If you like what I do, maybe consider buying me a coffee/tea.
 
 <a href="https://www.patreon.com/teocci"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dteocci%26type%3Dpatrons&style=for-the-badge" alt="Patreon" height="50"></a>
+<br>
+<br>
 <a href="https://www.buymeacoffee.com/teocci"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20Teocci%20a%20coffee&emoji=&slug=teocci&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee" height="50"></a>
 
 ### 📈 My github stats
