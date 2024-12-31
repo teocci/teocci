@@ -22,6 +22,9 @@ In addition to my professional endeavors, I actively contribute to the open-sour
 
 If you like what I do, maybe consider buying me a coffee/tea.
 
+[![patreon][img2]][3]
+[![buymeacoffee][img7]][9]
+
 <!-- HTML to set image height -->
 <a href="[3]"><img src="[img2]" alt="Patreon" height="50"></a>
 <a href="[9]"><img src="[img7]" alt="Buy Me a Coffee" height="50"></a>
