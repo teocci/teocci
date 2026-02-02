@@ -1,7 +1,6 @@
 ### What's up everybody, This is Teo
 ![][1]
 ![][8]
-[!<a href="https://mynickname.com/forum3t7/teocci.gif" target="_blank" rel="noopener noreferrer nofollow"></a>](https://mynickname.com/id1841336 "Visit profile")
 
 <br />
 
@@ -10,6 +9,8 @@ I am a dedicated researcher at RTT in Korea, having earned my M.S. degree in Com
 In addition to my professional endeavors, I actively contribute to the open-source community, where I serve as both an enthusiast and maintainer. The open-source world has been a rich source of learning for me, and I truly value the spirit of collaboration and knowledge-sharing that thrives in this vibrant community. Through open-source, I continue to grow as a developer and researcher, driven by the desire to make a positive impact in the ever-evolving landscape of technology.
 
 - 💬 Ask me about anything, I am happy to help;
+- 
+[![teocci](https://mynickname.com/forum3t7/teocci.gif)](https://mynickname.com/id1841336)
 
 ### Languages and tools:
 
