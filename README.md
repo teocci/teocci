@@ -36,8 +36,6 @@ If you like what I do, maybe consider buying me a coffee/tea.
 
 [![github-stats][img5]][6]
 
-[![github-stats][img7]][7]
-
 [1]: https://visitor-badge.laobi.icu/badge?page_id=teocci.teocci
 [2]: https://github.com/anmol098/teocci/workflows/Waka%20Readme/badge.svg
 [3]: https://www.patreon.com/teocci
@@ -50,8 +48,7 @@ If you like what I do, maybe consider buying me a coffee/tea.
 
 [img1]: https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
 [img2]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dteocci%26type%3Dpatrons&style=for-the-badge
-[img3]: https://github-readme-stats.vercel.app/api?username=teocci&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21&show_icons=true&line_height=27&count_private=true
-[img4]: https://github-readme-stats.vercel.app/api/top-langs/?username=teocci&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21&langs_count=3 
-[img5]: https://github-readme-stats.vercel.app/api/pin/?username=teocci&repo=JSONViewer-for-Chrome&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
-[img6]: https://github-readme-stats.vercel.app/api/pin/?username=teocci&repo=YouTube-In-Background&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
-[img7]: https://img.buymeacoffee.com/button-api/?text=Buy%20Teocci%20a%20coffee&emoji=&slug=teocci&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff
+[img3]: https://github-readme-stats-fast.vercel.app/api?username=teocci&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21&show_icons=true&line_height=27&count_private=true
+[img4]: https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teocci&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21&langs_count=3 
+[img5]: https://github-readme-stats-fast.vercel.app/api/pin/?username=teocci&repo=JSONViewer-for-Chrome&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
+[img6]: https://github-readme-stats-fast.vercel.app/api/pin/?username=teocci&repo=YouTube-In-Background&title_color=ffffff&text_color=c9cacc&icon_color=0879BA&bg_color=1d1f21
