@@ -1,6 +1,7 @@
 ### What's up everybody, This is Teo
 ![][1]
 ![][8]
+[!<a href="https://mynickname.com/forum3t7/teocci.gif" target="_blank" rel="noopener noreferrer nofollow"></a>](https://mynickname.com/id1841336 "Visit profile")
 
 <br />
 
@@ -45,7 +46,6 @@ If you like what I do, maybe consider buying me a coffee/tea.
 [7]: https://github.com/teocci/YouTube-In-Background
 [8]: https://komarev.com/ghpvc/?username=teocci
 [9]: https://www.buymeacoffee.com/teocci
-
 
 [img1]: https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif
 [img2]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dteocci%26type%3Dpatrons&style=for-the-badge
